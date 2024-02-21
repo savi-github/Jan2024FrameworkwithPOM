@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-20T21:40:43 PST" name="mysuite" finished-at="2024-02-20T21:41:25 PST" duration-ms="42638">
+    <groups>
+    </groups>
+    <test started-at="2024-02-20T21:40:43 PST" name="MyfirstTest" finished-at="2024-02-20T21:41:25 PST" duration-ms="42638">
+      <class name="testscenarios.TestScripts">
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:40:43 PST" name="setUpBeforeMethod" finished-at="2024-02-20T21:40:45 PST" duration-ms="2346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="forgotPassword()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:40:45 PST" name="forgotPassword" finished-at="2024-02-20T21:40:46 PST" duration-ms="1193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:40:46 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T21:40:51 PST" duration-ms="5121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:40:51 PST" name="setUpBeforeMethod" finished-at="2024-02-20T21:40:53 PST" duration-ms="1215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="forgotPassword2()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:40:53 PST" name="forgotPassword2" finished-at="2024-02-20T21:40:53 PST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword2 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:40:53 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T21:40:58 PST" duration-ms="5277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:40:58 PST" name="setUpBeforeMethod" finished-at="2024-02-20T21:40:59 PST" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="invalidLogin()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:40:59 PST" name="invalidLogin" finished-at="2024-02-20T21:41:00 PST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:41:00 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T21:41:05 PST" duration-ms="5097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:41:05 PST" name="setUpBeforeMethod" finished-at="2024-02-20T21:41:07 PST" duration-ms="1354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="rememberMeCheckbox()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:41:07 PST" name="rememberMeCheckbox" finished-at="2024-02-20T21:41:11 PST" duration-ms="4682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rememberMeCheckbox -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:41:11 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T21:41:16 PST" duration-ms="5103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:41:16 PST" name="setUpBeforeMethod" finished-at="2024-02-20T21:41:18 PST" duration-ms="1238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="validLogin()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:41:18 PST" name="validLogin" finished-at="2024-02-20T21:41:20 PST" duration-ms="2488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:testscenarios.TestScripts@201b6b6f]" started-at="2024-02-20T21:41:20 PST" name="tearDownAfterTestMethod" finished-at="2024-02-20T21:41:25 PST" duration-ms="5102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- testscenarios.TestScripts -->
+    </test> <!-- MyfirstTest -->
+  </suite> <!-- mysuite -->
+</testng-results>
